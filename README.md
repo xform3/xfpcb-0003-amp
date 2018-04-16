@@ -1,8 +1,11 @@
 ## XFPCB-0003 Class-AB Amplifier
 
 # Specifications
+
 Resistance: 4Ω-8Ω
+
 Power: 10-30W
+
 Input Voltage 12-16VDC Per Rail | 24-32VDC Combined 
 
 
