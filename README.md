@@ -21,6 +21,6 @@
 ![Xform3 XFPCB-0003 Class-AB Amplifier KiCad 3d](../master/graphics/channel_lm1875.png)
 
 ## PCB
-![Xform3 XFPCB-0003 Class-AB Amplifier](../master/graphics/pcb_lm1875.png)
+![Xform3 XFPCB-0003 Class-AB Amplifier](../master/graphics/schema_channel_lm1875.png)
 
  
