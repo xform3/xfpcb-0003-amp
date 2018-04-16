@@ -1,19 +1,17 @@
-## XFPCB-0003 Class-AB Amplifier
+# XFPCB-0003 Class-AB Amplifier
 
-# Specifications
+## Specifications
 
 Resistance: 4Ω-8Ω
 
 Power: 10-30W
 
 Input Voltage 12-16VDC Per Rail | 24-32VDC Combined 
+## Example  Input Voltage:  +18 VDC | 0 VDC | -18 VDC
 
+## [Use with: XFPCB-0004 Regulated Bipolar Power Supply](https://github.com/xform3/xfpcb-0004-psu)
 
-# Example  Input Voltage:  +18 VDC | 0 VDC | -18 VDC
-
-# [Use with: XFPCB-0004 Regulated Bipolar Power Supply](https://github.com/xform3/xfpcb-0004-psu)
-
-## Included Files:
+# Included Files:
 * [xf3_amp](https://github.com/xform3/xfpcb-0003-amp/tree/master/xf3_amp)  - *KiCAD Project Files*
 * [xf3_amp_gerbers_masks](https://github.com/xform3/xfpcb-0003-amp/tree/master/xf3_amp_gerbers_masks) - *PCB Gerber, Drill, Silk/Solder Masks, Positive and Negative plots*
 * [xf3-KiCad-Library](https://github.com/xform3/xf3-KiCad-Library)  - *KiCAD Library Files; footprints, .step and .wrl component models, schema lib.*
