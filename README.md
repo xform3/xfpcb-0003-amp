@@ -1,15 +1,12 @@
-# xfpcb-0003-amp
+## XFPCB-0003 Class-AB Amplifier
 
-
-# XFPCB-0003 Class-AB Amplifier
-
-## Specifications
+# Specifications
 Resistance: 4Ω-8Ω
 Power: 10-30W
 Input Voltage 12-16VDC Per Rail | 24-32VDC Combined 
 
 
-## Example  Input Voltage:  +18 VDC | 0 VDC | -18 VDC
+# Example  Input Voltage:  +18 VDC | 0 VDC | -18 VDC
 
 # [Use with: XFPCB-0004 Regulated Bipolar Power Supply](https://github.com/xform3/xfpcb-0004-psu)
 
