@@ -1,0 +1,38 @@
+Title,
+Revision,
+Date,
+Generated,Sat 19 May 2018 12:51:55 AM EDT
+Company,
+Comment 1,
+Comment 2,
+Comment 3,
+Comment 4,
+Total Parts,23
+Total Unique Parts,17
+
+
+
+Ref,Qty,Value,Footprint,Datasheet,
+C1 ,1,2.2uF,x_components:x_CapRadial7mm,
+C2 ,1,22uF,x_components:x_CapRadial7mm,
+C3 C4 ,2,100nF,x_components:x_CapDisk9mm,
+C5 C6 ,2,100uF,x_components:x_CapRadial7mm,
+C7 ,1,220nF,x_components:x_CapDisk9mm,
+D1 D2 ,2,1N4001,x_components:x_Diode,
+P1 P6 P7 P8 ,4,xhole,x_components:x_HoleRound,
+P2 ,1,CONN_01X03,x_components:x_PhoenixX3,
+P3 ,1,CONN_01X02,x_components:x_PhoenixX2,
+P4 ,1,CONN_01X03,x_components:x_PotConn,
+P5 ,1,INPUT,x_components:x_PhoenixX2mini,
+R1 ,1,16k,x_components:x_ResistorHorizontalRM10mm,
+R2 ,1,1K,x_components:x_ResistorHorizontalRM10mm,
+R3 ,1,22k,x_components:x_ResistorHorizontalRM10mm,
+R4 ,1,1R,x_components:x_ResistorHorizontalRM10mm,
+R6 ,1,1M,x_components:x_ResistorHorizontalRM10mm,
+U1 ,1,LM1875,x_components:x_TDA,
+
+
+
+
+BOM made with KICAD_BOM_WIZARD (https://github.com/HashDefineElectronics/KiCad_BOM_Wizard.git)
+Generated Sat 19 May 2018 12:51:55 AM EDT
