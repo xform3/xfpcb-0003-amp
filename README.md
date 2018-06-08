@@ -19,7 +19,7 @@ The TDA2030 is a monolithic integrated circuit in Pentawattpackage, intended for
 #### Specifications 
 - Load: 4Ω - 8Ω 
 - Supply Voltage ±18(36)
-- Output Power: 30W
+- Output Power: 20W
 #### Features
 - Low harmonic and cross-over distortion
 - Short circuit protection system and thermal shut-down system
