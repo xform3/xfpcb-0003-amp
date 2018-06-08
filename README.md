@@ -4,11 +4,11 @@
 
 ## Variation 1 LM1875
 The LM1875 is a monolithic power amplifier offering very low distortion and high quality performance for consumer audio applications.
-* Specifications 
+  Specifications 
 - Load: 4Ω - 8Ω 
 - Output Power: 30W
 - Supply Voltage 12V-36V(±18)
-* Features
+  Features
 - Low Distortion: 0.015%, 1 kHz, 20 W
 - Wide Power Bandwidth: 70 kHz
 - High Current Capability: 4A
@@ -16,11 +16,11 @@ The LM1875 is a monolithic power amplifier offering very low distortion and high
 
 ## Variation 2 TDA2030
 The TDA2030 is a monolithic integrated circuit in Pentawattpackage, intended for use as a low frequency class AB amplifier.
-* Specifications 
+  Specifications 
 - Load: 4Ω - 8Ω 
 - Supply Voltage ±18(36)
 - Output Power: 30W
-* Features
+  Features
 - Low harmonic and cross-over distortion
 - Short circuit protection system and thermal shut-down system
 
@@ -39,12 +39,12 @@ The TDA2030 is a monolithic integrated circuit in Pentawattpackage, intended for
 ![Xform3 XFPCB-0003 Class-AB Amplifier KiCAD Schema](../master/graphics/XF3_amp_application_.png.png)
  
 ## KiCad 3D
-![Xform3 XFPCB-0003 Class-AB Amplifier KiCad 3d](../master/graphics/channel_lm1875.png)
+![Xform3 XFPCB-0003 Class-AB Amplifier](../master/graphics/channel_lm1875_front2.png)
 
 ## PCB
 ![Xform3 XFPCB-0003 Class-AB Amplifier](../master/graphics/pcb_lm1875_clad.png)
 
 ## Prototype
-![Xform3 XFPCB-0003 Class-AB Amplifier](../master/graphics/channel_lm1875_top.png)
+![Xform3 XFPCB-0003 Class-AB Amplifier](../master/graphics/channel_lm1875_front.png)
 ![Xform3 XFPCB-0003 Class-AB Amplifier](../master/graphics/channel_lm1875_front2.png)
 
