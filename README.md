@@ -4,7 +4,7 @@
 
 ## Variation 1 LM1875
 The LM1875 is a monolithic power amplifier offering very low distortion and high quality performance for consumer audio applications.
----Specifications 
+** Specifications 
 - Load: 4Ω - 8Ω 
 - Output Power: 30W
 - Supply Voltage 12V-36V(±18)
