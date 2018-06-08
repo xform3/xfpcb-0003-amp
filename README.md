@@ -44,6 +44,7 @@ The TDA2030 is a monolithic integrated circuit in Pentawattpackage, intended for
 ## PCB
 ![Xform3 XFPCB-0003 Class-AB Amplifier](../master/graphics/pcb_lm1875_clad.png)
 
- ## Prototype
- ![Xform3 XFPCB-0003 Class-AB Amplifier](../master/graphics/channel_lm1875_top.png)
- ![Xform3 XFPCB-0003 Class-AB Amplifier](../master/graphics/channel_lm1875_front2.png)
+## Prototype
+![Xform3 XFPCB-0003 Class-AB Amplifier](../master/graphics/channel_lm1875_top.png)
+![Xform3 XFPCB-0003 Class-AB Amplifier](../master/graphics/channel_lm1875_front2.png)
+
